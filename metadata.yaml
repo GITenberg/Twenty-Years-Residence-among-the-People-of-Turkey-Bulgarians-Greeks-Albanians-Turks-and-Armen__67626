@@ -1,0 +1,61 @@
+_repo: Twenty-Years-Residence-among-the-People-of-Turkey-Bulgarians-Greeks-Albanians-Turks-and-Armen__67626
+_version: 0.0.1
+alternative_title: '20 Years'' Residence among the People of Turkey: Bulgarians, Greeks,
+  Albanians, Turks, and Armenians'
+creator:
+  author:
+    agent_name: Blunt, Fanny Janet Sandison
+    aliases:
+    - Blunt, Mrs. John E.
+    - Blunt, Lady Fanny
+    - Consul's daughter and wife
+    birthdate: 1840
+    deathdate: 1926
+    gutenberg_agent_id: '54361'
+    url: http://www.gutenberg.org/2009/agents/54361
+  editor:
+    agent_name: Lane-Poole, Stanley
+    alias: Poole, Stanley Lane
+    birthdate: 1854
+    deathdate: 1931
+    gutenberg_agent_id: '25154'
+    url: http://www.gutenberg.org/2009/agents/25154
+    wikipedia: https://en.wikipedia.org/wiki/Stanley_Lane-Poole
+description: 'British edition published as The People of Turkey: twenty years'' residence
+  among Bulgarians, Greeks, Albanians, Turks, and Armenians.'
+gutenberg_issued: '2022-03-13'
+identifiers:
+  gutenberg: '67626'
+  lccn: ltf90022047
+language: en
+pgterms:marc904: https://archive.org/details/twentyyearsresid00lanerich
+pgterms:marc905: 20200414173806anonymous
+pgterms:marc906: '1878'
+pgterms:marc907: US
+production_note: Turgut Dincer and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United States :Harper & Brothers,1878.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Land tenure -- Turkey'
+- !lcsh 'Eastern question (Balkan)'
+- !lcc 'DR'
+- !lcsh 'Women -- Turkey'
+- !lcsh 'Turkey -- Population'
+- !lcsh 'Women -- Education -- Turkey'
+- !lcsh 'Turkey -- Social life and customs'
+- !lcsh 'Balkan Peninsula -- Social life and customs'
+- GITenberg
+tableOfContents: 'The Bulgarians -- The Greeks of Turkey -- The Albanians -- The Turks
+  -- The Armenians and Jews in Turkey -- The Circassians, Tatars, and Gypsies of Turkey
+  -- Tenure of land -- Peasant holdings -- Turkish houses -- The seraglio -- Municipality,
+  police, and brigandage -- Ceremonies of birth and infancy -- Food -- Dress -- Turkish
+  weddings -- Christian weddings: Greek, Bulgarian, and Armenian -- Funeral ceremonies
+  -- Education among the Moslems -- Education among the Greeks and Bulgarians -- Superstition
+  -- Islam in Turkey -- Christianity in Turkey -- Religious tolerance and missionary
+  work.'
+title: 'Twenty Years'' Residence among the People of Turkey: Bulgarians, Greeks, Albanians,
+  Turks, and Armenians'
+url: http://www.gutenberg.org/ebooks/67626
