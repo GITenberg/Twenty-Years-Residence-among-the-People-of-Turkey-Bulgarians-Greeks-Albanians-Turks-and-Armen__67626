@@ -2,6 +2,9 @@ _repo: Twenty-Years-Residence-among-the-People-of-Turkey-Bulgarians-Greeks-Alban
 _version: 0.1.0
 alternative_title: '20 Years'' Residence among the People of Turkey: Bulgarians, Greeks,
   Albanians, Turks, and Armenians'
+covers:
+- cover_type: archival
+  image_path: 67626-h/images/cover.jpg
 creator:
   author:
     agent_name: Blunt, Fanny Janet Sandison
@@ -23,6 +26,8 @@ creator:
     wikipedia: https://en.wikipedia.org/wiki/Stanley_Lane-Poole
 description: 'British edition published as The People of Turkey: twenty years'' residence
   among Bulgarians, Greeks, Albanians, Turks, and Armenians.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67626#Twenty-Years-Residence-among-the-People-of-Turkey-Bulgarians-Greeks-Albanians-Turks-and-Armen_
 gutenberg_issued: '2022-03-13'
 identifiers:
   gutenberg: '67626'
